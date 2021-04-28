@@ -16,6 +16,7 @@
 		3B97F74326390BDD005149DA /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3B97F74126390BDD005149DA /* LaunchScreen.storyboard */; };
 		3B97F74E26390BDD005149DA /* AnimatedSlideUpMenuTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3B97F74D26390BDD005149DA /* AnimatedSlideUpMenuTests.swift */; };
 		3B97F75926390BDD005149DA /* AnimatedSlideUpMenuUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3B97F75826390BDD005149DA /* AnimatedSlideUpMenuUITests.swift */; };
+		3B97F76726390F1A005149DA /* OptionsManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3B97F76626390F1A005149DA /* OptionsManager.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		3B97F75426390BDD005149DA /* AnimatedSlideUpMenuUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = AnimatedSlideUpMenuUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		3B97F75826390BDD005149DA /* AnimatedSlideUpMenuUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimatedSlideUpMenuUITests.swift; sourceTree = "<group>"; };
 		3B97F75A26390BDD005149DA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3B97F76626390F1A005149DA /* OptionsManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OptionsManager.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -104,6 +106,7 @@
 				3B97F73326390BDC005149DA /* AppDelegate.swift */,
 				3B97F73526390BDC005149DA /* SceneDelegate.swift */,
 				3B97F73726390BDC005149DA /* ViewController.swift */,
+				3B97F76626390F1A005149DA /* OptionsManager.swift */,
 				3B97F73926390BDC005149DA /* Main.storyboard */,
 				3B97F73F26390BDD005149DA /* Assets.xcassets */,
 				3B97F74126390BDD005149DA /* LaunchScreen.storyboard */,
@@ -262,6 +265,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				3B97F73E26390BDC005149DA /* AnimatedSlideUpMenu.xcdatamodeld in Sources */,
+				3B97F76726390F1A005149DA /* OptionsManager.swift in Sources */,
 				3B97F73826390BDC005149DA /* ViewController.swift in Sources */,
 				3B97F73426390BDC005149DA /* AppDelegate.swift in Sources */,
 				3B97F73626390BDC005149DA /* SceneDelegate.swift in Sources */,
